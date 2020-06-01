@@ -4,7 +4,11 @@ sdfasdfasd
 sdfj
 sdffffffffff
 sd
+<<<<<<< HEAD
 fffff
+e
+sdfasdf
+>>>>>>> a2832a81d0bd8bb6eacd48f9c38e201e33dfe3e5
 
 df
 fd	f
