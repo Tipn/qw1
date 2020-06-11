@@ -1,2 +1,3 @@
 enter a line
-and enother line 
+and enother line
+some new `
