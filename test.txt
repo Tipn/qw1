@@ -30,3 +30,5 @@ hurt	hurt	hurt	ранить
 beat	beat	beaten	бить колотить
 shine	shone	shone 	светить
 make	made	made	
+meane	meant	meant 	значить
+
