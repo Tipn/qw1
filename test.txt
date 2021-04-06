@@ -29,3 +29,4 @@ give	gave	given	дать
 hurt	hurt	hurt	ранить 
 beat	beat	beaten	бить колотить
 shine	shone	shone 	светить
+make	made	made	
