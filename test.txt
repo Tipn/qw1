@@ -33,4 +33,5 @@ make	made	made
 meane	meant	meant 	значить
 pay	paid	paid	платить
 seek	sought	sought	искать 
-shine	shone	shone	
+shine	shone	shone	светить
+
