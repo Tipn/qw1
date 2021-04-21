@@ -34,5 +34,6 @@ meane	meant	meant 	значить
 pay	paid	paid	платить
 seek	sought	sought	искать 
 shine	shone	shone	светить
-sink	sank	sunk	
+sink	sank	sunk	думать
+
 
