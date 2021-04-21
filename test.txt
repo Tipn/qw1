@@ -35,5 +35,5 @@ pay	paid	paid	платить
 seek	sought	sought	искать 
 shine	shone	shone	светить
 sink	sank	sunk	думать
-find	found	found
+find	found	found	находить
 
