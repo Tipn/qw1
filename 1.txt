@@ -7,5 +7,7 @@ enter a line
 and enother line
 some new 
 
-fchek
+f
+
+dchek
 and added somthing 
