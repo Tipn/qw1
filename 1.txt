@@ -6,5 +6,6 @@ one more
 enter a line
 and enother line
 some new 
-chek
+
+fchek
 and added somthing 
