@@ -10,5 +10,4 @@ some new
 f
 
 dchek
-tru
-
+Ftru
