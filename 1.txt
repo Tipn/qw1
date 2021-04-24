@@ -1,7 +1,4 @@
-dd
-A
-B
-B
+s
 one more 
 enter a line
 and enother line
