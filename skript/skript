@@ -1,4 +1,4 @@
 #!/bin/bash
-echo -n "what is your name"
+echo -n "what is your name "
 read Name
 echo "Hi $Name"
