@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "Hello "
-name="Artem"
+name="Pavel"
 x=2
 y=3
-echo "HI $name" 
+echo "HI $name"
+ new=$x+$y
+echo $new
