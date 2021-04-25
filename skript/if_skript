@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "what is your age "
+read age
+if [[ $age -ge 0 ]] && [[ $age -lt 12 ]]; then
+	echo "yuo are a chaild"
+		elif [[ $age -ge 12 ]] && [[ $age -lt 18 ]]; then 
+	echo "you are tinage"
+		elif (( $age -ge 18 )) && (( $age -lt 60 )); then
+	echo "you are midel"
+		else
+	echo "you are old"
+fi
+# lt -  меньше
+# gt - больше
+# le - меньше ілі равно
+# ge - больше ілі равно
+# eq - равно іспользуется вместо ==)
