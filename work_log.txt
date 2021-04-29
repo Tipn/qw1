@@ -3,4 +3,5 @@ broke the LIGA server into SKMU
 ask to vacation live 
 throu th ASKOD pull the report of liave..
 29/04/2021
-reconect the VCS Chenge it back on premises
+reconect the VCS Chenge it back on premises to virtual one
+
