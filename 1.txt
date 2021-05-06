@@ -1,6 +1,6 @@
 one more 
 enter a line
-and enother line
+and another line
 some new 
 
 I have to start working on your experience 
@@ -9,7 +9,7 @@ on Monday you will start Lerners languages!!!
 
 Monday at 26.04.2021
 s
-today I will continue to write a skripts on bash
+today I will continue to write a scripts on bash
 
 22
 
