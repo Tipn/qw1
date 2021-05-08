@@ -5,5 +5,6 @@ Yesterday I was too disappointed, a lot of bad news became..
 {yesterday = 06.05.2021} 
 {disappointed = "didn't feel support; understood I can't influent on some proces"}
 return to Kiev
-come to mama and talk with her in a friend way 
+come to mama and talk with her in a friend way
+Very pleasant invariant 
 
