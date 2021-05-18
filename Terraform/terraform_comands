@@ -1,4 +1,5 @@
 ls -lah 
 terraform plan
 terraform graph
- 
+terraform apply 
+terraform  
