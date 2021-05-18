@@ -23,6 +23,7 @@ network_interface {
 metadata = {
     ssh-keys = "ubuntu:${file("~/.ssh/id_rsa.pub")}"
 }
+
 }
 resource "yandex_vpc_network" "network-1" {
     name = "network-1"
