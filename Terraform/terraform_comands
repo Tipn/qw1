@@ -1,2 +1,4 @@
 ls -lah 
-terraform -plan 
+terraform plan
+terraform graph
+ 
