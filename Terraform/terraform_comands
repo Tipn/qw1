@@ -3,7 +3,7 @@ terraform plan
 terraform graph
 terraform apply 
 ll
-
+cat terraform.tfstate | jq
 less terraform.tfstate
 terraform init 
 terraform show
