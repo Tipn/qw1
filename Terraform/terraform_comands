@@ -3,9 +3,10 @@ terraform plan
 terraform graph
 terraform apply 
 ll
-cat terraform.tfstate | jq
+cat terraform.tfstate | jq 
 less terraform.tfstate
 terraform init 
 terraform show
 terraform destroy
 terraform graph -draw 
+jq #для автоматизации какихто вещей выставления синтаксиса
