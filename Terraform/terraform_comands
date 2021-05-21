@@ -6,6 +6,7 @@ ll
 cat terraform.tfstate | jq 
 less terraform.tfstate
 terraform init 
+terraform validate 
 terraform show
 terraform destroy
 terraform graph -draw 
