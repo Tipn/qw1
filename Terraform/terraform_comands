@@ -11,3 +11,4 @@ terraform destroy
 terraform graph -draw 
 jq #для автоматизации какихто вещей выставления синтаксиса
 for git some chenges 
+and on
