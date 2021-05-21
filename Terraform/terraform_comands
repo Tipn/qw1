@@ -2,6 +2,7 @@ ls -lah
 terraform plan
 terraform graph
 terraform apply 
+terraform apply -auto-approve 
 ll
 cat terraform.tfstate | jq 
 less terraform.tfstate
