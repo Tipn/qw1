@@ -20,7 +20,7 @@ beat	beat	beaten	бить колотить
 shine	shone	shone 	светить
 make	made	made	
 meane	meant	meant 	значить
-pay	paid	paid	платить
+pay		paid	paid	платить
 seek	sought	sought	искать 
 shine	shone	shone	светить
 sink	sank	sunk	думать
