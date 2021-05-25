@@ -27,4 +27,5 @@ sink	sank	sunk	думать
 find	found	found	находить
 hit 	hit		hit		ударять
 heng	hung 	hung 	вешать, висеть
+drive	drove 	driven	водить
 
