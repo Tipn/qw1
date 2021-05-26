@@ -34,4 +34,5 @@ put		put 	put 	ставить
 be 		was,were been 	быть,являтся 
 beat	beat 	beaten 	бить,кольотить
 become	became	become	становится
+bend	bent 	bent	гнуть
 	
