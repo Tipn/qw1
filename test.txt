@@ -37,5 +37,6 @@ become	became	become	становится
 bend	bent 	bent	гнуть
 bet 	bet 	bet 	держать,пари
 bite	bit 	bitten	кусать
+blow	blew	blown	дуть 
  
 
