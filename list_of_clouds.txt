@@ -1,0 +1,7 @@
+VMWare
+vSphere
+AWS
+Azure Cloud
+Hyper-V
+Openstack
+proxmox,DO 
