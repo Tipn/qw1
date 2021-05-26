@@ -30,4 +30,5 @@ heng	hung 	hung 	вешать, висеть
 drive	drove 	driven	водить
 begin	began	begun	начинать
 shoot	shot	shot	стрелять 
+put		put 	put 	ставить 
 
