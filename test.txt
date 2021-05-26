@@ -29,4 +29,5 @@ hit 	hit		hit		ударять
 heng	hung 	hung 	вешать, висеть
 drive	drove 	driven	водить
 begin	began	begun	начинать
+shut	shut	shut	стрелять 
 
