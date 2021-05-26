@@ -38,5 +38,5 @@ bend	bent 	bent	гнуть
 bet 	bet 	bet 	держать,пари
 bite	bit 	bitten	кусать
 blow	blew	blown	дуть 
- 
+break 	broke 	broken	ломать  
 
