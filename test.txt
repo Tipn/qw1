@@ -40,4 +40,4 @@ bite	bit 	bitten	кусать
 blow	blew	blown	дуть 
 break 	broke 	broken	ломать  
 build 	built	built	строить 
-
+buy 	brought	brought	покупать
