@@ -45,4 +45,6 @@ catch 	caught	caught	поймать
 choose	chose 	cohosen	выбирать 
 come 	came 	come	приходить
 cost	cost 	cost	стоить 	
+cut 	cut 	cut 	резать 
+
 
