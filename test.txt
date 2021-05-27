@@ -43,3 +43,5 @@ build 	built	built	строить
 buy 	brought	brought	покупать
 catch 	caught	caught	поймать 
 choose	chose 	cohosen	выбирать 
+come 	came 	come	приходить
+
