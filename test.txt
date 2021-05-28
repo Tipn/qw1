@@ -47,5 +47,6 @@ come 	came 	come	приходить
 cost	cost 	cost	стоить 	
 cut 	cut 	cut 	резать 
 deal 	deelt	dealt	иметь дело договариваться 
+dig 	Dug 	Dug 	копать
 
 
