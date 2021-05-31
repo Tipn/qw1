@@ -51,4 +51,5 @@ draw 	drew	drawen	рисовать
 drink 	drank 	drunk 	пить 
 drive	drove 	driven	водить
 eat		ate 	eaten 	есть 
+fall 	fell	fallen	падать 
 
