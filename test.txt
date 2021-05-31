@@ -58,3 +58,5 @@ find	found	found	находить
 fly		flew	flowen	летать 
 forget	forgot 	forgotten забывать
 forgive forgave	forgiven прощать
+freeze	froze	frozen	замерзать
+
