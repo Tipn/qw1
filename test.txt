@@ -24,7 +24,6 @@ pay		paid	paid	платить
 seek	sought	sought	искать 
 shine	shone	shone	светить
 sink	sank	sunk	думать
-find	found	found	находить
 hit 	hit		hit		ударять
 heng	hung 	hung 	вешать, висеть
 begin	began	begun	начинать
@@ -53,4 +52,4 @@ drive	drove 	driven	водить
 eat		ate 	eaten 	есть 
 fall 	fell	fallen	падать 
 fight 	fought	fought	драться
-
+find	found	found	находить
