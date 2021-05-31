@@ -50,5 +50,5 @@ deal 	deelt	dealt	иметь дело договариваться
 dig 	Dug 	Dug 	копать
 draw 	drew	drawen	рисовать 
 drink 	drank 	drunk 	пить 
-
+drive	drove 	driven	водить
 
