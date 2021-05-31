@@ -53,3 +53,5 @@ eat		ate 	eaten 	есть
 fall 	fell	fallen	падать 
 fight 	fought	fought	драться
 find	found	found	находить
+fly		flew	flowen	летать 
+
