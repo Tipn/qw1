@@ -51,6 +51,8 @@ drink 	drank 	drunk 	пить
 drive	drove 	driven	водить
 eat		ate 	eaten 	есть 
 fall 	fell	fallen	падать 
+feed 	fed 	fed 	кормить
+feel	felt 	felt 	чувствовать
 fight 	fought	fought	драться
 find	found	found	находить
 fly		flew	flowen	летать 
