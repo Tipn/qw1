@@ -56,4 +56,5 @@ feel	felt 	felt 	чувствовать
 fight 	fought	fought	драться
 find	found	found	находить
 fly		flew	flowen	летать 
-
+forget	forgot 	forgotten забывать
+forgive forgave	forgiven прощать
