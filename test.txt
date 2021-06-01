@@ -65,6 +65,7 @@ hang 	hung 	hung	обнимать
 have 	had 	had		иметь обладать
 hear	heard	heard	слишать
 hide	hid		hidden	прятать
+hit 	hit 	hit 	ударять
 
 
 
