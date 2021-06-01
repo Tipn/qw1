@@ -14,7 +14,6 @@ how to write something bettered than it be
 it is  very interesting hot make this day claver 
 
 				irregular verbs 
-give	gave	given	дать 
 hurt	hurt	hurt	ранить 
 shine	shone	shone 	светить
 make	made	made	
@@ -59,7 +58,7 @@ forget	forgot 	forgotten забывать
 forgive forgave	forgiven прощать
 freeze	froze	frozen	замерзать
 get 	got 	got 	получать
-
+give	gave	given	дать 
 grow 	grew 	growen	расти
 
 
