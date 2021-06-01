@@ -16,7 +16,6 @@ it is  very interesting hot make this day claver
 				irregular verbs 
 give	gave	given	дать 
 hurt	hurt	hurt	ранить 
-beat	beat	beaten	бить колотить
 shine	shone	shone 	светить
 make	made	made	
 meane	meant	meant 	значить
@@ -26,12 +25,12 @@ shine	shone	shone	светить
 sink	sank	sunk	думать
 hit 	hit		hit		ударять
 heng	hung 	hung 	вешать, висеть
-begin	began	begun	начинать
 shoot	shot	shot	стрелять 
 put		put 	put 	ставить 
 be 		was,were been 	быть,являтся 
 beat	beat 	beaten 	бить,кольотить
 become	became	become	становится
+begin	began	begun	начинать
 bend	bent 	bent	гнуть
 bet 	bet 	bet 	держать,пари
 bite	bit 	bitten	кусать
@@ -59,4 +58,5 @@ fly		flew	flowen	летать
 forget	forgot 	forgotten забывать
 forgive forgave	forgiven прощать
 freeze	froze	frozen	замерзать
+
 
