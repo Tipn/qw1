@@ -67,6 +67,7 @@ hear	heard	heard	слишать
 hide	hid		hidden	прятать
 hit 	hit 	hit 	ударять
 hold 	held 	held	держать
+hurt	hurt	hurt 	ранить
 
 
 
