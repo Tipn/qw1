@@ -59,6 +59,8 @@ forgive forgave	forgiven прощать
 freeze	froze	frozen	замерзать
 get 	got 	got 	получать
 give	gave	given	дать 
+go	 	went 	gone 	идти 
 grow 	grew 	growen	расти
+
 
 
