@@ -63,6 +63,7 @@ go	 	went 	gone 	идти
 grow 	grew 	growen	расти
 hang 	hung 	hung	обнимать
 have 	had 	had		иметь обладать
+hear	heard	heard	слишать
 
 
 
