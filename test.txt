@@ -61,6 +61,7 @@ get 	got 	got 	получать
 give	gave	given	дать 
 go	 	went 	gone 	идти 
 grow 	grew 	growen	расти
+hang 	hung 	hung	обнимать
 
 
 
