@@ -72,6 +72,6 @@ keep	kept	kept	хранить
 know	knew	known	значить
 lay 	laid 	laid 	лежать
 lead 	led  	led 	вести за собой 
-
+leave 	left 	ledft 	оставлять
 
 
