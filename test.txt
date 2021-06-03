@@ -74,5 +74,5 @@ lay 	laid 	laid 	лежать
 lead 	led  	led 	вести за собой 
 leave 	left 	ledft 	покидать
 lend	lent 	lent 	давать в займы
-
+let 	let 	let 	позволять 
 
