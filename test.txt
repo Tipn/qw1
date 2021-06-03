@@ -68,6 +68,8 @@ hide	hid		hidden	прятать
 hit 	hit 	hit 	ударять
 hold 	held 	held	держать
 hurt	hurt	hurt 	ранить
+keep	kept	kept	хранить
+know	knew	known	значить
 
 
 
