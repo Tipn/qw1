@@ -70,9 +70,11 @@ hold 	held 	held	держать
 hurt	hurt	hurt 	ранить
 keep	kept	kept	хранить
 know	knew	known	значить
-lay 	laid 	laid 	лежать
+lay 	laid 	laid 	класть положить 
 lead 	led  	led 	вести за собой 
 leave 	left 	ledft 	покидать
 lend	lent 	lent 	давать в займы
 let 	let 	let 	позволять 
+lie 	lay 	lain 	лежать 
+
 
