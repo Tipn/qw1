@@ -15,3 +15,4 @@ today I will continue to write a scripts on bash
 list 
 for macking a commit 
 enoter commit
+end enother
