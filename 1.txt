@@ -14,3 +14,4 @@ today I will continue to write a scripts on bash
 22
 list 
 for macking a commit 
+enoter commit
