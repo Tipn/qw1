@@ -79,4 +79,5 @@ lie 	lay 	lain 	лежать
 light 	lit 	lit 	зажигать 
 lose	lost	lost	терять
 make	made	made	делать
+mean 	meant	meant 	значить 
 
