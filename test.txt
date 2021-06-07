@@ -77,4 +77,5 @@ lend	lent 	lent 	давать в займы
 let 	let 	let 	позволять 
 lie 	lay 	lain 	лежать 
 light 	lit 	lit 	зажигать 
+lose	lost	lost	терять
 
