@@ -85,4 +85,5 @@ pay 	paid 	paid 	платить
 put 	put 	put 	ставить 
 read 	read 	read	читать
 ride	rode 	ridden 	ехать верхом
+ring 	rang 	rung 	звонить 
 
