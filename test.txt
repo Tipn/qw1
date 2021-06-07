@@ -84,4 +84,5 @@ meet 	met 	met 	встречать
 pay 	paid 	paid 	платить
 put 	put 	put 	ставить 
 read 	read 	read	читать
+ride	rode 	ridden 	ехать верхом
 
