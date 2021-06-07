@@ -87,4 +87,5 @@ read 	read 	read	читать
 ride	rode 	ridden 	ехать верхом
 ring 	rang 	rung 	звонить 
 rise 	rose 	risen 	вставать 
+run 	ran 	run 	бежать 
 
