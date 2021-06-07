@@ -89,3 +89,5 @@ ring 	rang 	rung 	звонить
 rise 	rose 	risen 	вставать 
 run 	ran 	run 	бежать 
 say 	said	said 	говорить 
+see 	saw 	seen 	видеть 
+
