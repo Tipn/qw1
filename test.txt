@@ -81,4 +81,5 @@ lose	lost	lost	терять
 make	made	made	делать
 mean 	meant	meant 	значить 
 meet 	met 	met 	встречать 
+pay 	paid 	paid 	платить
 
