@@ -96,5 +96,5 @@ send 	sent 	sent 	посылать
 set 	set 	set 	устанавливать 
 shake 	shook	shaken 	трясти 
 shine 	shone 	shone 	светить 
-ahoot 	shot 	shut 	стрелять 
-	
+shoot 	shot 	shut 	стрелять 
+
