@@ -93,4 +93,5 @@ see 	saw 	seen 	видеть
 seek 	sought 	sought 	искать
 sell	sold 	sold 	продавать
 send 	sent 	sent 	посылать 
+set 	set 	set 	устанавливать 
 
