@@ -90,4 +90,4 @@ rise 	rose 	risen 	вставать
 run 	ran 	run 	бежать 
 say 	said	said 	говорить 
 see 	saw 	seen 	видеть 
-
+seek 	sought 	sought 	искать
