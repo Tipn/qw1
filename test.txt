@@ -97,4 +97,4 @@ set 	set 	set 	устанавливать
 shake 	shook	shaken 	трясти 
 shine 	shone 	shone 	светить 
 shoot 	shot 	shut 	стрелять 
-
+show 	showed 	showen,showed  показывать
