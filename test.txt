@@ -101,3 +101,4 @@ show 	showed 	showen,showed  показывать
 shut 	shut 	shut 	закрывать 
 sing 	song 	sung	петь 
 sink  	sank 	sunk 	тонуть 
+sit 	sat 	sat 	сидеть 
