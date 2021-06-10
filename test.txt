@@ -102,4 +102,5 @@ shut 	shut 	shut 	закрывать
 sing 	song 	sung	петь 
 sink  	sank 	sunk 	тонуть 
 sit 	sat 	sat 	сидеть
-sleep 	slept	slept 	спать 
+sleep 	slept	slept 	спать
+speak	 
