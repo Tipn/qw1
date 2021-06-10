@@ -100,3 +100,4 @@ shoot 	shot 	shut 	стрелять
 show 	showed 	showen,showed  показывать
 shut 	shut 	shut 	закрывать 
 sing 	song 	sung	петь 
+shoot 	
