@@ -103,4 +103,5 @@ sing 	song 	sung	петь
 sink  	sank 	sunk 	тонуть 
 sit 	sat 	sat 	сидеть
 sleep 	slept	slept 	спать
-speak	 
+speak	spoke 	spoken 	говорить 
+ 
