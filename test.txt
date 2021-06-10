@@ -106,4 +106,6 @@ sleep 	slept	slept 	спать
 speak	spoke 	spoken 	говорить 
 spend 	spent 	spent 	тратить 
 stand	stood 	stood 	стоять 
-steal 	stole 	stolen 	воровать, красть 
+steal 	stole 	stolen 	воровать, красть
+stick 	stuck 	stuck 	приклеивать
+ 
