@@ -104,4 +104,5 @@ sink  	sank 	sunk 	тонуть
 sit 	sat 	sat 	сидеть
 sleep 	slept	slept 	спать
 speak	spoke 	spoken 	говорить 
+spend 	spent 	spent 	тратить 
  
