@@ -111,4 +111,4 @@ stick 	stuck 	stuck 	приклеивать
 strike 	struck struck,striken ударять
 swear	swore 	sworn 	клянуться
 sweep 	swept 	swept 	подметать
- 
+swim 	swung	swung 	плавать 	 
