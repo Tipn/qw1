@@ -113,4 +113,5 @@ swear	swore 	sworn 	клянуться
 sweep 	swept 	swept 	подметать
 swim 	swung	swung 	плавать 
 take 	took 	taken	брать
-teach 	tought	taught 	учить	 
+teach 	tought	taught 	учить
+tear 	tore 	torn 	рвать отрывать	 
