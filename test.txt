@@ -110,4 +110,4 @@ steal 	stole 	stolen 	воровать, красть
 stick 	stuck 	stuck 	приклеивать
 strike 	struck struck,striken ударять
 swear	swore 	sworn 	клянуться
-sweep  
+sweep 	swept 
