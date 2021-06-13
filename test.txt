@@ -20,7 +20,6 @@ shine	shone	shone	светить
 sink	sank	sunk	думать
 
 shoot	shot	shot	стрелять 
-put		put 	put 	ставить 
 be 		was,were been 	быть,являтся 
 beat	beat 	beaten 	бить,кольотить
 become	became	become	становится
