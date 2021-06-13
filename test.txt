@@ -18,7 +18,6 @@ shine	shone	shone 	светить
 seek	sought	sought	искать 
 shine	shone	shone	светить
 sink	sank	sunk	думать
-hit 	hit		hit		ударять
 heng	hung 	hung 	вешать, висеть
 shoot	shot	shot	стрелять 
 put		put 	put 	ставить 
