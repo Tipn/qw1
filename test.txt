@@ -109,3 +109,4 @@ swim 	swung	swung 	плавать
 take 	took 	taken	брать
 teach 	tought	taught 	учить
 tear 	tore 	torn 	рвать отрывать	 
+tell 	
