@@ -111,4 +111,4 @@ teach 	tought	taught 	учить
 tear 	tore 	torn 	рвать отрывать	 
 tell 	told	told 	говорить
 think 	thought thought думать 
-throw 	threw 	threwn 	
+throw 	threw 	threwn 	бросать
