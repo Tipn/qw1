@@ -114,4 +114,4 @@ think 	thought thought думать
 throw 	threw 	threwn 	бросать
 understand understood understood понимать
 wake 	woke 	woken 	просыпаться
-wear	wore
+wear	wore	worn
