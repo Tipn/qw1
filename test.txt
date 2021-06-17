@@ -113,4 +113,4 @@ tell 	told	told 	говорить
 think 	thought thought думать 
 throw 	threw 	threwn 	бросать
 understand understood understood понимать
-wake 	woke 	
+wake 	woke 	woken 	
