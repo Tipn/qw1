@@ -115,4 +115,4 @@ throw 	threw 	threwn 	бросать
 understand understood understood понимать
 wake 	woke 	woken 	просыпаться
 wear	wore	worn 	носить 
-win 	
+win 	won 
