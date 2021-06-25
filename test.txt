@@ -116,4 +116,4 @@ understand understood understood понимать
 wake 	woke 	woken 	просыпаться
 wear	wore	worn 	носить 
 win 	won 	won 	победить
-write 	
+write 	wrote
