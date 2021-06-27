@@ -7,3 +7,4 @@ Azure Cloud
 Hyper-V
 Openstack
 proxmox,DO 
+Kubernetis
