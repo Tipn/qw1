@@ -11,24 +11,24 @@ it is  very interesting hot make this day claver
 				irregular verbs 
 
 
-be 		was,were been 	быть,являтся 
-beat	beat 	beaten 	бить,кольотить
-become	became	become	становится
-begin	began	begun	начинать
-bend	bent 	bent	гнуть
-bet 	bet 	bet 	держать,пари
-bite	bit 	bitten	кусать
-blow	blew	blown	дуть 
-break 	broke 	broken	ломать  
-build 	built	built	строить 
-buy 	brought	brought	покупать
-catch 	caught	caught	поймать 
-choose	chose 	cohosen	выбирать 
-come 	came 	come	приходить
-cost	cost 	cost	стоить 	
-cut 	cut 	cut 	резать 
-deal 	deelt	dealt	иметь дело договариваться 
-dig 	Dug 	Dug 	копать
+be 			was,were been 	быть,являтся 
+beat		beat 	beaten 	бить,кольотить
+become		became	become	становится
+begin		began	begun	начинать
+bend		bent 	bent	гнуть
+bet 		bet 	bet 	держать,пари
+bite		bit 	bitten	кусать
+blow		blew	blown	дуть 
+break 		broke 	broken	ломать  
+build 		built	built	строить 
+buy 		brought	brought	покупать
+catch 		caught	caught	поймать 
+choose		chose 	cohosen	выбирать 
+come 		came 	come	приходить
+cost		cost 	cost	стоить 	
+cut 		cut 	cut 	резать 
+deal 		deelt	dealt	иметь дело договариваться 
+dig 		Dug 	Dug 	копать
 draw 	drew	drawen	рисовать 
 drink 	drank 	drunk 	пить 
 drive	drove 	driven	водить
