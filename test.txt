@@ -82,19 +82,19 @@ set 		set 		set 		устанавливать
 shake 		shook		shaken 		трясти 
 shine 		shone 		shone 		светить 
 shoot 		shot 		shut 		стелять 
-show 		showed 		showen,showed  показывать
-shut 		shut 		shut 		закрывать 
-sing 		song 		sung		петь 
-sink  		sank 		sunk 		тонуть 
-sit 		sat 		sat 		сидеть
-sleep 		slept		slept 		спать
-speak		spoke 		spoken 		говорить 
-spend 		spent 		spent 		тратить 
-stand		stood 		stood 		стоять 
-steal 		stole 		stolen 		воровать, красть
-stick 		stuck 		stuck 		приклеивать
-strike 		struck 		struck,striken ударять
-swear		swore 		sworn 		клянуться
+show 		showed 		showen,showed 	показывать
+shut 		shut 		shut 			закрывать 
+sing 		song 		sung			петь 
+sink  		sank 		sunk 			тонуть 
+sit 		sat 		sat 			сидеть
+sleep 		slept		slept 			спать
+speak		spoke 		spoken 			говорить 
+spend 		spent 		spent 			тратить 
+stand		stood 		stood 			стоять 
+steal 		stole 		stolen 			воровать, красть
+stick 		stuck 		stuck 			приклеивать
+strike 		struck 		struck,striken 	ударять
+swear		swore 		sworn 			клянуться
 sweep 		swept 		swept 		подметать
 swim 		swung		swung 		плавать 
 take 		took 		taken		брать
