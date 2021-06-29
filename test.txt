@@ -1,10 +1,6 @@
-
-sdfffffffff
-<<<<<<< HEAD
+<<<<<< HEAD
 sdfasdf
 >>>>>>> a2832a81d0bd8bb6eacd48f9c38e201e33dfe3e5
-
-one more trash
 
 today geting on a quarantine  
 hope it will be a god day 
