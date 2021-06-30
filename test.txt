@@ -10,78 +10,78 @@ it is  very interesting hot make this day claver
 
 				irregular verbs 
 
-
-be 			was,were	been 		быть,являтся 
-beat		beat 		beaten 		бить,кольотить
-become		became		become		становится
-begin		began		begun		начинать
-bend		bent 		bent		гнуть
-bet 		bet 		bet 		держать,пари
-bite		bit 		bitten		кусать
-blow		blew		blown		дуть 
-break 		broke 		broken		ломать  
-build 		built		built		строить 
-buy 		brought		brought		покупать
-catch 		caught		caught		поймать 
-choose		chose 		cohosen		выбирать 
-come 		came 		come		приходить
-cost		cost 		cost		стоить 	
-cut 		cut 		cut 		резать 
-deal 		deelt		dealt		иметь дело договариваться 
-dig 		Dug 		Dug 		копать
-draw 		drew		drawen		рисовать 
-drink 		drank 		drunk 		пить 
-drive		drove 		driven		водить
-eat			ate 		eaten 		есть 
-fall 		fell		fallen		падать 
-feed 		fed 		fed 		кормить
-feel		felt 		felt 		чувствовать
-fight 		fought		fought		драться
-find		found		found		находить
-fly			flew		flowen		летать 
-forget		forgot 		forgotten 	забывать
-forgive 	forgave		forgiven 	прощать
-freeze		froze		frozen		замерзать
-get 		got 		got 		получать
-give		gave		given		дать 
-go	 		went 		gone 		идти 
-grow 		grew 		growen		расти
-hang 		hung 		hung		обнимать
-have 		had 		had			иметь обладать
-hear		heard		heard		слишать
-hide		hid			hidden		прятать
-hit 		hit 		hit 		ударять
-hold 		held 		held		держать
-hurt		hurt		hurt 		ранить
-keep		kept		kept		хранить
-know		knew		known		значить
-lay 		laid 		laid 		класть положить 
-lead 		led  		led 		вести за собой 
-leave 		left 		ledft 		покидать
-lend		lent 		lent 		давать в займы
-let 		let 		let 		позволять 
-lie 		lay 		lain 		лежать 
-light 		lit 		lit 		зажигать 
-lose		lost		lost		терять
-make		made		made		делать
-mean 		meant		meant 		значить 
-meet 		met 		met 		встречать 
-pay 		paid 		paid 		платить
-put 		put 		put 		ставить 
-read 		read 		read		читать
-ride		rode 		ridden 		ехать верхом
-ring 		rang 		rung 		звонить 
-rise 		rose 		risen 		вставать 
-run 		ran 		run 		бежать 
-say 		said		said 		говорить 
-see 		saw 		seen 		видеть 
-seek 		sought 		sought 		искать
-sell		sold 		sold 		продавать
-send 		sent 		sent 		посылать 
-set 		set 		set 		устанавливать 
-shake 		shook		shaken 		трясти 
-shine 		shone 		shone 		светить 
-shoot 		shot 		shut 		стелять 
+	
+be 			was,were	been 			быть,являтся 
+beat		beat 		beaten 			бить,кольотить
+become		became		become			становится
+begin		began		begun			начинать
+bend		bent 		bent			гнуть
+bet 		bet 		bet 			держать,пари
+bite		bit 		bitten			кусать
+blow		blew		blown			дуть 
+break 		broke 		broken			ломать  
+build 		built		built			строить 
+buy 		brought		brought			покупать
+catch 		caught		caught			поймать 
+choose		chose 		cohosen			выбирать 
+come 		came 		come			приходить
+cost		cost 		cost			стоить 	
+cut 		cut 		cut 			резать 
+deal 		deelt		dealt			иметь дело договариваться 
+dig 		Dug 		Dug 			копать
+draw 		drew		drawen			рисовать 
+drink 		drank 		drunk 			пить 
+drive		drove 		driven			водить
+eat			ate 		eaten 			есть 
+fall 		fell		fallen			падать 
+feed 		fed 		fed 			кормить
+feel		felt 		felt 			чувствовать
+fight 		fought		fought			драться
+find		found		found			находить
+fly			flew		flowen			летать 
+forget		forgot 		forgotten 		забывать
+forgive 	forgave		forgiven 		прощать
+freeze		froze		frozen			замерзать
+get 		got 		got 			получать
+give		gave		given			дать 
+go	 		went 		gone 			идти 
+grow 		grew 		growen			расти
+hang 		hung 		hung			обнимать
+have 		had 		had				иметь обладать
+hear		heard		heard			слишать
+hide		hid			hidden			прятать
+hit 		hit 		hit 			ударять
+hold 		held 		held			держать
+hurt		hurt		hurt 			ранить
+keep		kept		kept			хранить
+know		knew		known			значить
+lay 		laid 		laid 			класть положить 
+lead 		led  		led 			вести за собой 
+leave 		left 		ledft 			покидать
+lend		lent 		lent 			давать в займы
+let 		let 		let 			позволять 
+lie 		lay 		lain 			лежать 
+light 		lit 		lit 			зажигать 
+lose		lost		lost			терять
+make		made		made			делать
+mean 		meant		meant 			значить 
+meet 		met 		met 			встречать 
+pay 		paid 		paid 			платить
+put 		put 		put 			ставить 
+read 		read 		read			читать
+ride		rode 		ridden 			ехать верхом
+ring 		rang 		rung 			звонить 
+rise 		rose 		risen 			вставать 
+run 		ran 		run 			бежать 
+say 		said		said 			говорить 
+see 		saw 		seen 			видеть 
+seek 		sought 		sought 			искать
+sell		sold 		sold 			продавать
+send 		sent 		sent 			посылать 
+set 		set 		set 			устанавливать 
+shake 		shook		shaken 			трясти 
+shine 		shone 		shone 			светить 
+shoot 		shot 		shut 			стелять 
 show 		showed 		showen,showed 	показывать
 shut 		shut 		shut 			закрывать 
 sing 		song 		sung			петь 
@@ -95,16 +95,16 @@ steal 		stole 		stolen 			воровать, красть
 stick 		stuck 		stuck 			приклеивать
 strike 		struck 		struck,striken 	ударять
 swear		swore 		sworn 			клянуться
-sweep 		swept 		swept 		подметать
-swim 		swung		swung 		плавать 
-take 		took 		taken		брать
-teach 		tought		taught 		учить
-tear 		tore 		torn 		рвать отрывать	 
-tell 		told		told 		говорить
-think 		thought 	thought 	думать 
-throw 		threw 		threwn 		бросать
-understand 	understood 	understood 	понимать
-wake 		woke 		woken 		просыпаться
-wear		wore		worn 		носить 
-win 		won 		won 		победить
-write 		wrote		written 	писать 
+sweep 		swept 		swept 			подметать
+swim 		swung		swung 			плавать 
+take 		took 		taken			брать
+teach 		tought		taught 			учить
+tear 		tore 		torn 			рвать отрывать	 
+tell 		told		told 			говорить
+think 		thought 	thought 		думать 
+throw 		threw 		threwn 			бросать
+understand 	understood 	understood 		понимать
+wake 		woke 		woken 			просыпаться
+wear		wore		worn 			носить 
+win 		won 		won 			победить
+write 		wrote		written 		писать 
