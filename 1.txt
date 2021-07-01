@@ -14,13 +14,5 @@ today I will continue to write a scripts on bash
 for macking a commit 
 enoter commit
 end enother
-test 
-for some new linee ffff
-fdf
-fdf
-33
-frozen
-fff
-frozen
-
-triuldf
+testf
+for some new linee ff
