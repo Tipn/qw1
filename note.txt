@@ -20,3 +20,7 @@ new
 05/07 problem with an 
 
 log sheepeng - реакция на атаку системы (отправка полного ЛОГа на безопасный сервер)
+
+Discoretionar Access Control list - DACL
+Mandatory Access Control List - MACL
+Roal Base Access Controll - RBAC 
