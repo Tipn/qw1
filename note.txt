@@ -24,4 +24,4 @@ log sheepeng - реакция на атаку системы (отправка �
 Discoretionar Access Control list - DACL
 Mandatory Access Control List - MACL
 Roal Base Access Controll - RBAC 
-rt
+tt
