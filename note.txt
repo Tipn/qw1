@@ -29,3 +29,7 @@ Roal Base Access Controll - RBAC
 сценарии для  IPSEC
 
 есть трефик:
+
+SMB
+- ALL
+WWW
