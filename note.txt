@@ -38,3 +38,6 @@ FTP
 - ALL
 TELNET
 - ALL
+- ADMIN
+PING
+- ALL
