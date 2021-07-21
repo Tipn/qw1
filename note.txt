@@ -28,6 +28,9 @@ Roal Base Access Controll - RBAC
 
 сценарии для  IPSEC
 
+windows Server 2012
+
+
 есть трефик:
 
 SMB
