@@ -36,9 +36,9 @@ WWW
 - ALL  // разрешить 
 - HACKER //запретить 
 FTP
-- ALL
+- ALL   // разрешить
 TELNET
-- ALL
-- ADMIN
+- ALL   // запретить
+- ADMIN // разрешить
 PING
 - ALL
