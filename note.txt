@@ -32,9 +32,9 @@ Roal Base Access Controll - RBAC
 
 SMB
 - ALL  //  НИЧЕГО НЕ ДЕЛАТЬ 
-- HACKER
 WWW
--ALL
+- ALL  // разрешить 
+- HACKER //запретить 
 FTP
 - ALL
 TELNET
