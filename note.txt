@@ -32,6 +32,7 @@ Roal Base Access Controll - RBAC
 
 SMB
 - ALL
+- HACKER
 WWW
 -ALL
 FTP
