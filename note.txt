@@ -31,7 +31,7 @@ Roal Base Access Controll - RBAC
 есть трефик:
 
 SMB
-- ALL
+- ALL  //  НИЧЕГО НЕ ДЕЛАТЬ 
 - HACKER
 WWW
 -ALL
