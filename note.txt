@@ -36,3 +36,5 @@ WWW
 -ALL
 FTP
 - ALL
+TELNET
+- ALL
