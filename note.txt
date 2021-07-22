@@ -44,4 +44,5 @@ TELNET
 - ALL   // запретить
 - ADMIN // разрешить
 PING
+
 - ALL
