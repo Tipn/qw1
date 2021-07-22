@@ -45,4 +45,4 @@ TELNET
 - ADMIN // разрешить
 PING
 
-- ALL
+- ALL   //
