@@ -11,4 +11,4 @@ Monday at 26.04.2021
 today I will continue to write a scripts on bash
  
 for macking a commit 
-for some new linee ff
+for some new linee
