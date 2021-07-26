@@ -14,5 +14,4 @@ today I will continue to write a scripts on bash
 for macking a commit 
 enoter commit
 end enother
-testf
 for some new linee ff
