@@ -12,3 +12,5 @@ today I will continue to write a scripts on bash
  
 for macking a commit 
 for some new linee
+
+fg
