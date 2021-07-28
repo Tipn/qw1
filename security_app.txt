@@ -9,3 +9,15 @@
 установить developer.microsoft.com/ gwt windows 10 development environment
 
 установить bwapp itsecgames.com download virtual
+
+lesson 2 
+1) уязвимости и причины возникновения 
+2) OWSAP top 10
+3) Писк уязвимостей
+
+velnerability -возможность нанести ущерб данным 
+виды: User, Front, Backend, Databese; 
+
+атаки на пользователя 
+
+атаки на сервер 
