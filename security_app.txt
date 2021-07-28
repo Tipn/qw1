@@ -23,3 +23,29 @@ velnerability -возможность нанести ущерб данным
 атаки на сервер 
 payload -  
 неправильное разграничение прав пользователя 
+
+
+2) 
+- injection 
+        SQLi    структурированый язык запросов позволяет достучатся к закрытым данным через форму ввода. консоль ввода должна быть ограничена в правах на запрос
+        OS
+        Ldap
+        NoSQLi
+            item = mysqli_qwery('SELECT*FROM Items WHERE id=' + $_GET['id'])
+            Подаем id =1, получаем выражение:
+            SELECT * FROM Items WHERE id=1
+
+            инекция 
+            Подаем id = -1 or 1=1 получаем выражение:
+            SELECT * FROM items WHERE id=-1 or 1=1
+
+- broken authentification
+        уязвимости JWT
+- sensitive data exposure
+- XXE
+- Broken access ControlSecurity misconfiguration
+- XSS
+- insecure deserialization
+- Using components with known vulnerabilities
+- Insufficent Logging & monitoring 
+
