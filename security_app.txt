@@ -1,5 +1,11 @@
+препод: Пархомец Павел penetretion tester Awilix LLC                Класификация OWASP top 10 
 выпускная работа: написанное веб приложени, которое нужно обезопасить от всех уязвимостей
 
 Отчет устранения уязвимостей
 
 отчет способов устранения 
+
+установить www.kali.org/downloads/
+установить developer.microsoft.com/ gwt windows 10 development environment
+
+установить bwapp itsecgames.com download virtual
