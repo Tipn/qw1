@@ -1,0 +1,21 @@
+CORS регулятор ajax запросов браузера с API 
+site consist frontend & backend
+
+запросы с сайта называются ajax
+
+CORS - один источник 
+server{
+    location{
+        add_header'Access-Conterol-Allow-Origin''a/com' always;
+    or  add_header"Access-Conterol-Allow-Methods""GET,POST,OPTION,PUT" always;  -
+    }
+}
+Типы CORS простой и предварительный 
+
+считается когда простым когда GET HEAD POST
+нет пользовательских заголовков
+
+предварительным считается все остальные 
+
+кеширование запросов : add_header"Access-Conterol-Max-Age" 86400
+
