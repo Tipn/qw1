@@ -25,6 +25,9 @@ add_header"Access-Conterol-Allow-Credentials""true" always;
 
                 Open redirect CSRF
 
+root-me.org - сайт для тестирования своих знаний проникновения 
+
+
 1) open redirect- уязвимость позволяющая путем манипуляции параметров URLперенаправить пользователя на ресурс не предусмотренный разработчиком 
 цель - фишинг 
 
