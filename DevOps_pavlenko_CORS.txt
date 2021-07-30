@@ -56,7 +56,19 @@ public class RedirectServlet extends HttpServlet (
 
 - account tokeover
 - Privilege Escalation
-- Remout code execution
+- Remout code execution 
+
+CSRF token 
+    для каждой сесии геенрируется уникальный высокоентропийный токен
+
+формула вычесления токена:
+token = salt + ":" + MD5(salt + ":" + select)
+
+например 
+в сесии хранится secret+"abcdef" ето значение создается 1 раз 
+для новоого токена создается salt например="1234".
+token = "1234" + ":" + MD%("1234" + ":" + "abcdef") + "1232343eqrughhwerfASDFASdfkLAdfasdf"
+ 
 
 
 
