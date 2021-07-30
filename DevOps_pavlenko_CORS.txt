@@ -22,3 +22,4 @@ server{
 add_header"Access-Conterol-Allow-Heders""Content-Type" always;
 
 add_header"Access-Conterol-Allow-Credentials""true" always;
+
