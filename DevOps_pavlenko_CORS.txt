@@ -25,7 +25,27 @@ add_header"Access-Conterol-Allow-Credentials""true" always;
 
                 Open redirect CSRF
 
-1) open redirect
+1) open redirect- уязвимость позволяющая путем манипуляции параметров URLперенаправить пользователя на ресурс не предусмотренный разработчиком 
+цель - фишинг 
+
 
 
 2) CSRF 
+
+<?php
+$redirect_url - $_GET('url');
+header("location: " . $redirect_url);
+?>
+тогда уязвимость будет: http://site.com/example.php?url-http:/evil/com
+
+public class RedirectServlet extends HttpServlet (
+    protected void doGet (HttpServletRequest request, HttpServletResponse response) throws
+        string query = request.getQueryString();
+        if (query.contains("url")) (
+            String url +request.getParameter("url");
+            response.sendRedirect(url);
+        
+        )
+)
+<a bref="http://bank.site.com/redirect?url=http://evil.com">Click her to log in</a>
+
