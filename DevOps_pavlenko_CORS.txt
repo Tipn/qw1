@@ -52,7 +52,7 @@ public class RedirectServlet extends HttpServlet (
 
 
 2) CSRF Cross Site Redirect Forgery - межсайтовая подделка запроса или XSRF 
-это: выполнение действий от имени пользователя 
+это: выполнение действий от имени пользователя с помощью повышения привелегий 
 
 
 
