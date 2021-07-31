@@ -16,8 +16,6 @@ some new for commit
 
 feel like you want 
 but better will do it !
-new
-05/07 problem with an 
 
 log sheepeng - реакция на атаку системы (отправка полного ЛОГа на безопасный сервер)
 
