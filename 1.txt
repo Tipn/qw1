@@ -8,6 +8,3 @@ I have to start working on your experience
 on Monday you will start Lerners languages!!!
 
 Monday at 26.04.2021
-today I will continue to write a scripts on bash
- 
-for macking a commit
