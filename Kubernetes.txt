@@ -1,3 +1,5 @@
+источник - ADV-IT
+
 kubernetes.io
 работает на языке GO 
 первая версия вишла в 2014г
@@ -65,3 +67,18 @@ and manage sensitive information, such as passwords, OAuth tokens,
 and SSH keys. You can deploy and update secrets and application 
 configuration without rebuilding your container images, and without 
 exposing secrets in your stack configuration.
+
+KUBERNTES CLOUD сервисы
+возможность поднять kubernetes Claster и полное управление им 
+
+AWS : Amazone Elastic kubernetes Service (EKS)
+GCP : Google kubernetes engine (GKE)
+Azure : Azure Kubernetes Service - (AKS)
+AliBaba : Conteiner Sevice for Kubernetes (ACK)
+Yandex : Yandex meneged Service for Kubernetes 
+
+существует kubernetes certifications
+Certified Kubernetes Administrator (CKA) -300$
+Certified Kubernetes application Developer (CKAD) - 300$
+
+
