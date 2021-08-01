@@ -17,3 +17,14 @@ Nodes существует двух типов:
     2. Master Node - сервер который управляет Worker Nodes 
 когда вы запускаете команды Управления, они всегда посилаются на Master Node.
 CLI
+
+Master Node -  сервер на котором работают три главных процесса K8s
+- kube-apiserver
+- kube-kontroller-manager
+- kubesceduler
+- ITSD
+
+Worker Node - сервер на котором работают два главных процесса K8s
+- Kubelet
+- kube-proxy
+
