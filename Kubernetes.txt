@@ -80,5 +80,12 @@ Yandex : Yandex meneged Service for Kubernetes
 существует kubernetes certifications
 Certified Kubernetes Administrator (CKA) -300$
 Certified Kubernetes application Developer (CKAD) - 300$
+_________________________________________________________
 
+Kubernetes - на Windows 
+программы:
+VirtualBox
+Kubectl - https://kubernetes.io/docs/tasks/tools/
+miniclube - https://kubernetes.io/docs/tasks/tools/
 
+для управления кластером 
