@@ -90,6 +90,4 @@ Kubectl - https://kubernetes.io/docs/tasks/tools/
 
 minikube - https://kubernetes.io/docs/tasks/tools/
 для создания K8s claster Single-node кластер ноды для тестов работы учебы 
-
-
-   
+  
