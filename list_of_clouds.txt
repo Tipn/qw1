@@ -6,5 +6,5 @@ AWS
 Azure Cloud
 Hyper-V
 Openstack
-proxmox,DO 
+proxmox,DO
 Kubernetis
