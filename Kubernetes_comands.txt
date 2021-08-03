@@ -1,0 +1,15 @@
+minikube version
+minikube start
+minikube stop 
+minikube delete 
+minikube SSH
+
+minikube start --cpus=4 --memory=4gb --disk-size=21gb
+minikube start -p MYSUPERKLASTER 
+
+kubectl get componentstatuses
+kubectl version --client
+kubectl cluster-info
+kubectl get nodes
+
+minikube - password: tcuser

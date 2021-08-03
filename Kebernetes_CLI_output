@@ -17,9 +17,6 @@
 💡  kubectl not found. If you need it, try: 'minikube kubectl -- get pods -A'
 🏄  Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default
 
-
-
-
 😄  minikube v1.22.0 on Ubuntu 20.04
 ✨  Using the virtualbox driver based on existing profile
 👍  Starting control plane node minikube in cluster minikube
@@ -30,7 +27,6 @@
 🌟  Enabled addons: storage-provisioner, default-storageclass
 💡  kubectl not found. If you need it, try: 'minikube kubectl -- get pods -A'
 🏄  Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default
-
 
 😄  minikube v1.22.0 on Ubuntu 20.04
 ✨  Automatically selected the virtualbox driver. Other choices: none, ssh
@@ -50,7 +46,6 @@
 🌟  Enabled addons: storage-provisioner, default-storageclass
 💡  kubectl not found. If you need it, try: 'minikube kubectl -- get pods -A'
 🏄  Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default
-
 
 😄  minikube v1.22.0 on Ubuntu 20.04
 ✨  Using the virtualbox driver based on existing profile

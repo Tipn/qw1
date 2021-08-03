@@ -1,9 +1,0 @@
-minikube start
-
-minikube kubectl get componentstatuses
-
-minikube kubectl cluster-info
-
-minikube kubectl get nodes
-
-minikube SSH
