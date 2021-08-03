@@ -13,3 +13,7 @@ kubectl cluster-info
 kubectl get nodes
 
 minikube - password: tcuser
+
+
+chmod +x kubectl
+scho "export PATH=PATH:/kubernetes/" >> /etc/bash.bashrc
