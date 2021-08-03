@@ -1,0 +1,5 @@
+minikube start
+
+minikube kubectl get componentstatuses
+
+minikube kubectl cluster-info
