@@ -87,7 +87,6 @@ payload -
 - Insufficent Logging & monitoring 
 
 
-
 инструменты для BLACK BOX 
     disearch
     gobuster
