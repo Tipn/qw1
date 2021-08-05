@@ -4,3 +4,8 @@ aws cli - https://docs.aws.amazon.com/cli/index.html
 awscli  - нужен для футентификации и запуска команд AWS
 kubectl - для управления K8s Claster'ом
 eksctl  - для создания K8s Claster'a
+
+
+play with Kubernetetes 
+
+https://labs.play-with-k8s.com/
