@@ -13,6 +13,8 @@ kubectl cluster-info
 kubectl get nodes
 
 /home/pavel/.kube - файл с конфигурацией кластера 
+/home/pavel/.minikube - файлы кнфига миникуба 
+
 minikube - password: tcuser
 
 
