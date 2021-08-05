@@ -12,6 +12,7 @@ kubectl version --client
 kubectl cluster-info
 kubectl get nodes
 
+/home/pavel/.kube - файл с конфигурацией кластера 
 minikube - password: tcuser
 
 
