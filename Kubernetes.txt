@@ -112,7 +112,7 @@ minikube - https://kubernetes.io/docs/tasks/tools/
             ConfigMaps
             Vertical Pod Autoscaler
             Horizonta Pod Autoscaler
-            ...........
+            ...........                                           
 
 
 
