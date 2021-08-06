@@ -24,3 +24,5 @@ scho "export PATH=PATH:/kubernetes/" >> /etc/bash.bashrc
 docker command 
 
 docker images - посмотреть список снимков контейнеров 
+
+docekr tag myk8sapp:latesr adv400/k9sphp:latast
