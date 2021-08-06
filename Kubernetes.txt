@@ -92,4 +92,6 @@ minikube - https://kubernetes.io/docs/tasks/tools/
 для создания K8s claster Single-node кластер ноды для тестов работы учебы 
   
 Главные обекты Kubernetus 
-    0. Container 
+    0. Container  - контейнер не является обектом поэтому под ноль 
+    1. Pod - самый простой обект мы запускаем Pod который состоит из 1 или больше контейнеров
+    2. Deployment - это несколько одинаковых Pod 
