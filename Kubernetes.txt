@@ -94,10 +94,14 @@ minikube - https://kubernetes.io/docs/tasks/tools/
 Главные обекты Kubernetus 
     0. Container  - контейнер не является обектом поэтому под ноль 
     1. Pod - самый простой обект мы запускаем Pod который состоит из 1 или больше контейнеров
-    2. Deployment - это несколько одинаковых Pod 
-    3. Service - дает доступ к Pod 
-    4. Nodes - сервера на которых это все поднимается 
-    5. Cluster - обединение наших серверов
+    2. Deployment - это несколько одинаковых Pod, нужен для Auto Scaling и для обновления Container Image, держит минимальное количествао работающих Pods. 
+    3. Service - предоставляет доступ к Deployment через 
+                -> ClusterIP
+                -> NodePort
+                -> LoadBalancers
+                -> externalName
+    4. Nodes - сервера на которых это все hf,jnftn 
+    5. Cluster - Логическое объединение Nodes наших серверов
             DeamonSets
             StatefulSets
             ReplicaSets
@@ -109,5 +113,8 @@ minikube - https://kubernetes.io/docs/tasks/tools/
             Vertical Pod Autoscaler
             Horizonta Pod Autoscaler
             ...........
+
+
+
 
         
