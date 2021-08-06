@@ -26,3 +26,5 @@ docker command
 docker images - посмотреть список снимков контейнеров 
 
 docekr tag myk8sapp:latesr adv400/k9sphp:latast
+
+docker run -it -p 1234:80 [docker_image]
