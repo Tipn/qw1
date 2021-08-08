@@ -5,4 +5,4 @@ I have to start working on your experience
 
 Monday at 26.04.2021
 
-08.08.2021
+08.08.2021 остался дома сделать уборку и попрактиковаться с kubernetes 
