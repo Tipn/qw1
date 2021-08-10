@@ -11,3 +11,12 @@ play with Kubernetetes
 https://labs.play-with-k8s.com/
 
 все команды в консоли !
+
+Docer Images & uploading to docker Hub
+
+1. создаем простые приложения PHP 
+2. создаем Docerfile c Apache +PHP + наше приложене
+3. create  Docer Image из нашего dockerfile
+4. create  Repository on Dockeet Hub 
+5. upload Docker Image in to Repository on DocerHub 
+6. Test Docer Image on Docer Hub
