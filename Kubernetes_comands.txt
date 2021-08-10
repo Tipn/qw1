@@ -41,3 +41,6 @@ kubectl get pods
 
 kubectl describe pods hello
 kubectl port-forward hello 7788:80   ---- перенаправить порт машины на порт внутри контейнера 
+kubectl apply -f pod-myweb-ver1.yaml ---- запустить под 
+kubectl delete -f pod-myweb-ver1.yaml -----
+
