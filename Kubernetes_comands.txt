@@ -28,3 +28,16 @@ docker images - посмотреть список снимков контейн�
 docekr tag myk8sapp:latesr adv400/k9sphp:latast
 
 docker run -it -p 1234:80 adv4000/k8sphp:latest [docker_image]
+
+
+Pod
+
+kubectl get pods
+kubectl run hello --generator=run-pod/v1  
+kubectl run hello --generator=run-pod/v1 --image=httpd:latest --port=80
+kubectl run hello --generator=run-pod/v1 --image=adv4000/k8sphp:latest --port=80
+
+kubectl get pods
+
+kubectl describe pods hello
+kubectl port-forward hello 7788:80   ---- перенаправить порт машины на порт внутри контейнера 
