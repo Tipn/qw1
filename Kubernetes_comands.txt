@@ -41,3 +41,5 @@ kubectl get pods
 
 kubectl describe pods hello
 kubectl port-forward hello 7788:80   ---- перенаправить порт машины на порт внутри контейнера 
+
+Deployment - сет дубликат наших nodes
