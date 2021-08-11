@@ -48,4 +48,5 @@ kubectl get deployments
 kubectl get deploy 
 
 kubectl create deployment pavel-shevkoplias --image adv400/k8sphp:latest
+kubectl scale deployment pavel-shevkoplias --replicas 4  ----дублиовать поды 
 
