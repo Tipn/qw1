@@ -53,3 +53,6 @@ kubectl get rs -----показать автоматическое увеличе
 kubectl get hpa ------ horizontalpodautoscaler 
 kubectl rollout history deployment/pavel-shevkoplias
 
+kubectl set image deployment/pavel-shevkoplias k8sphp=adv4000/k8sphp:version1 --record
+kubectl rollout status deployment/pavel-shevkoplias
+kubectl rollout history deployment/pavel-shevkoplias
