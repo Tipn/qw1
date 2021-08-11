@@ -17,6 +17,7 @@ kubectl get nodes
 
 minikube - password: tcuser
 
+
 chmod +x kubectl
 scho "export PATH=PATH:/kubernetes/" >> /etc/bash.bashrc
 
@@ -42,3 +43,9 @@ kubectl describe pods hello
 kubectl port-forward hello 7788:80   ---- перенаправить порт машины на порт внутри контейнера 
 
 Deployment - сет дубликат наших nodes
+
+kubectl get deployments
+kubectl get deploy 
+
+kubectl create deployment pavel-shevkoplias --image adv400/k8sphp:latest
+
