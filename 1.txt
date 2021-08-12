@@ -11,3 +11,5 @@ Monday at 26.04.2021
 master - это местная ветка 
 origin master - это ветвь master в удаленном репозиории с именим origin 
 origin/master - это ваша локальная копия 
+
+git fetch --- копирует origin master в origin/master
