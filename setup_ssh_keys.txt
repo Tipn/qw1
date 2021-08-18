@@ -2,6 +2,6 @@ $ ssh -vT git@github.com - проверить к какому домену ты 
 
 $ ssh -T git@github.com - проверка работоспособности и подключение ssh ключа 
 
-and
+\
 
-some alse 
+\
