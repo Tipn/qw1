@@ -1,0 +1,48 @@
+про альтернативу технологий
+
+Docker дата релиза 2013/03/023                          LXD Canonical (Ubuntu) 2015/02/15
+    https://github.com/moby/moby                        https://github.com/lxd/lxd
+лицензия    Apache 2.0 проприетарная                          Apache 2.0                         
+Aplication-контейнер                                        Система-в-контейнере и VM
+- приложение и его потомки                                  - Множество приложений
+- Нет init-системы                                          - привычные init-системы 
+- Логи в stdout/stderr                                          -sysstemd
+                                                                -rc-skripts
+                                                            - логи в journald? rsyslog и др.
+
+ сетевые возможности 
+ - overay (VxLAN)                                           - overay (VxLAN)  
+ - brige                                                    - macvlan
+ - macvlan                                                  - physical (host)
+ - host                                                     - OVN (Open virtual Network)
+ - network plugins(Weave, Kuryr, Contriv)                   - tunel (VxLAN or GRE)
+                                                            - SR-IOV                                   
+хранилища и файловые системы 
+
+- overlayFS (по умолчанию)                                  - ZFS (рекомендуется)
+- AuFS                                                      - Ceph (сложнее) 
+- ZFS (очень медленно)                                      - LVM
+- vfs (fallback)                                            - btrfs (умерла)
+                                                            - dir (fallback)
+
+устройства и данные 
+- volums                                                    - disks (file, dir, block dev)
+- bind mounts                                               - nic (host, vxlan, macvlan, brige, etc)
+- tmpfs                                                     - proxy (tcp, upd, unix)
+- single device (passthrough)                               - unix (char or block devices)
+                                                            - usb, pci
+                                                            - gpu, tpm, infiniband
+                                                        
+безопастность и лимиты 
+- ограничение ресурсов (cgroups)                            - ограничение ресурсов (cgroups) 
+- Seccomp                                                   - Seccomp, AppArmor
+- UID shifting (выключено) *                                - UID shifting (включено) *
+                                                                - idmap isolation
+                                                            - Unprivileged containers (по умолчанию)
+* безопастность в контейнере включение фекового рута со здвигом приоритета пользователя 
+
+
+
+
+
+
