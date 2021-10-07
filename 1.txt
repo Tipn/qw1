@@ -15,4 +15,5 @@ origin/master - это ваша локальная копия
 git fetch --- копирует origin master в origin/master
 
 what the defferences betwin zsh and bash? 
-Z shell - envirement for scripting on shell languge  
+Z shell - envirement for scripting on shell languge 
+111 
