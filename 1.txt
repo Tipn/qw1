@@ -13,3 +13,6 @@ origin master - это ветвь master в удаленном репозиор�
 origin/master - это ваша локальная копия 
 
 git fetch --- копирует origin master в origin/master
+
+what the defferences betwin zsh and bash? 
+Zshell
